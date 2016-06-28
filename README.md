@@ -1,1 +1,1 @@
-# othello-reversi-python
+# othello-reversi-python2
